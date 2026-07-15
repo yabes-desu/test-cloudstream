@@ -1,0 +1,9 @@
+{
+    "name": "Hatsune Repoo",
+    "iconUrl": "https://avatars.githubusercontent.com/u/146099520?v=4&size=512",
+    "description": "A curated collection of CloudStream extensions for anime, donghua, movies, and TV series with Indonesian subtitles",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/yabes-desu/test-cloudstream/refs/heads/main/plugins.json"
+    ]
+}
