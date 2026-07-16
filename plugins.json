@@ -9,7 +9,7 @@
             "Miku"
         ],
         "description": "Alqanime — Streaming Anime, Donghua Subtitle Indonesia",
-        "fileSize": 38394,
+        "fileSize": 38367,
         "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
         "language": "id",
         "tvTypes": [
@@ -19,6 +19,6 @@
         ],
         "iconUrl": "https://cloudstream.zvlz.my.id/icon/alqanime.png",
         "apiVersion": 1,
-        "fileHash": "sha256-eee6ecf1003f20c3e79db4e93953b95728340ee69145b9998a09854126414c58"
+        "fileHash": "sha256-4147eb43147eb692077ac797dc92fd39072e1543bd0e56a773458191d310e6dc"
     }
 ]
