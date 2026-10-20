@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/yabes-desu/test-cloudstream/refs/heads/main/OtakudesuProvider.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "OtakudesuProvider",
         "internalName": "OtakudesuProvider",
         "authors": [
             "Miku"
         ],
         "description": "Alqanime — Streaming Anime, Donghua Subtitle Indonesia",
-        "fileSize": 48197,
+        "fileSize": 49452,
         "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
         "language": "id",
         "tvTypes": [
@@ -19,6 +19,6 @@
         ],
         "iconUrl": "https://cloudstream.zvlz.my.id/icon/alqanime.png",
         "apiVersion": 1,
-        "fileHash": "sha256-b6c849d2267d7708acdff2e634618625ac881ef3b9338c91d6994c7660f12321"
+        "fileHash": "sha256-6bf5860f559d672f1681f80ce16edb0c6e22e00cb0d5a92e272af9c3092104b3"
     }
 ]
